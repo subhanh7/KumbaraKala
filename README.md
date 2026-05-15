@@ -113,7 +113,7 @@ The application includes a simple authentication system using Supabase and Share
 
 <table>
 <tr>
-<td align="center">Splash</td>
+<td align="center">Welcome</td>
 <td align="center">Signup</td>
 <td align="center">Home</td>
 <td align="center">Products</td>
