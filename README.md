@@ -89,7 +89,6 @@ KumbaraKala/
 └── README.md
 ```
 ---
----
 
 ## Authentication Flow
 
@@ -135,6 +134,8 @@ The application includes a simple authentication system using Supabase and Share
 <td><img src="https://github.com/user-attachments/assets/94e5ab46-2d25-4f4b-8db7-32e898f8fcd3" width="140"/></td>
 </tr>
 </table>
+
+---
 
 ## Installation
 
