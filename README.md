@@ -89,6 +89,52 @@ KumbaraKala/
 └── README.md
 ```
 ---
+---
+
+## Authentication Flow
+
+The application includes a simple authentication system using Supabase and SharedPreferences.
+
+### Features
+
+• User Login
+
+• User Signup
+
+• Persistent session management
+
+• Secure authentication flow
+
+• Automatic session handling
+
+---
+
+## Screenshots
+
+<table>
+<tr>
+<td align="center">Splash</td>
+<td align="center">Signup</td>
+<td align="center">Home</td>
+<td align="center">Products</td>
+<td align="center">Details</td>
+<td align="center">Cards</td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/user-attachments/assets/e716f989-60b7-42ab-88f4-34d2d0e37935" width="140"/></td>
+
+<td><img src="https://github.com/user-attachments/assets/44d7a553-86a1-426d-8d91-cb5a8e2ade1f" width="140"/></td>
+
+<td><img src="https://github.com/user-attachments/assets/3aaeaed0-5690-475e-b70b-f38f5ec43542" width="140"/></td>
+
+<td><img src="https://github.com/user-attachments/assets/c54f80f6-f840-43ef-b0e3-c46e54778c77" width="140"/></td>
+
+<td><img src="https://github.com/user-attachments/assets/cd0a1f7f-8b30-4b50-9f29-520e82961f50" width="140"/></td>
+
+<td><img src="https://github.com/user-attachments/assets/94e5ab46-2d25-4f4b-8db7-32e898f8fcd3" width="140"/></td>
+</tr>
+</table>
 
 ## Installation
 
